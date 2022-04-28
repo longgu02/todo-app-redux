@@ -1,0 +1,45 @@
+.form-button {
+    display: flex;
+ }
+
+.item-input {
+    width: 20rem;
+    text-align: center;
+}
+
+/* .form-todo {
+} */
+
+.TodoApp{
+    text-align: center;
+}
+
+.item-typography{
+    font-weight: normal;
+}
+
+.item {
+    text-align: left;
+    padding: 20px;
+    display: flex;
+}
+
+.todo-stack{
+    margin-top: 20px;
+}
+
+.check-img {
+    width: 2rem;
+    margin-right: 10px;
+}
+
+.complete {
+    text-decoration: line-through;
+    opacity: 0.5;
+}
+
+.delete-img {
+    display: block;
+    margin-left: auto;
+    width: 2rem;
+}
